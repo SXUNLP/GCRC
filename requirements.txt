@@ -1,0 +1,11 @@
+nltk==3.6.2
+ltp==4.1.4
+numpy==1.19.5
+pandas==1.2.3
+torch==1.8.1+cu111
+jieba==0.42.1
+transformers==4.2.2
+tqdm==4.56.0
+apex==0.9.10dev
+ptvsd==4.3.2
+tensorboardX==2.4
