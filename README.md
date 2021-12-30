@@ -7,7 +7,8 @@
 Please see [GCRC for Explainable Evaluation](http://cuge.baai.ac.cn/#/dataset?id=22&name=GCRC) or [Github related links](https://github.com/yunxiaomr/GCRC).
 
 ### Code
-Please see [GCRC for Explainable Evaluation](http://cuge.baai.ac.cn/#/dataset?id=22&name=GCRC) or [Github related links](https://github.com/yunxiaomr/GCRC) about the eval script. In the near future we will upload the baseline code.
+Please see [GCRC for Explainable Evaluation](http://cuge.baai.ac.cn/#/dataset?id=22&name=GCRC) or [Github related links](https://github.com/yunxiaomr/GCRC) about the eval script. 
+In the near future we will upload the baseline code.
 
 ### Leaderboard
 Please see [GCRC Leaderboard for Explainable Evaluation](http://cuge.baai.ac.cn/#/dataset?id=22&name=GCRC)
