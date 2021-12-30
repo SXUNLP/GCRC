@@ -1,5 +1,9 @@
 # GCRC
+GCRC: A New Challenging MRC Dataset from Gaokao Chinese for Explainable Evaluation
 
+### Introduction
+  Currently, machine reading comprehension models have made exciting progress, driven by a large number of publicly available data sets. However, the real language comprehension capabilities of models are far from what people expect, and most of the data sets provide black-box evaluations that fail to diagnose whether the system is based on correct reasoning processes. In order to alleviate these problems and promote machine intelligence to humanoid intelligence, Shanxi University focuses on the more diverse and challenging reading comprehension tasks of the college entrance examination, and attempts to evaluate machine intelligence effectively and practically based on standardized human tests. We collected gaokao reading comprehension test questions in the past 10 years and constructed a datasets which is GCRC(A New MRC Dataset from Gaokao Chinese for Explainable Evaluation) containing more than 5000 texts and more than 8,700 multiple-choice questions (about 15,000 options). The datasets is annotated three kinds of information: the sentence level support fact, interference item’s error cause and the reasoning skills required to answer questions. Related experiments show that this datasets is more challenging, which is very useful for diagnosing system limitations in an interpretable manner, and will help researchers develop new machine learning and reasoning methods to solve these challenging problems in the future.
+  
 ### paper
 [GCRC: A New Challenging MRC Dataset from Gaokao Chinese for Explainable Evaluation](https://aclanthology.org/2021.findings-acl.113.pdf). ACL 2021 Findings.
 
