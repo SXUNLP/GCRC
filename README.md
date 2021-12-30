@@ -24,6 +24,7 @@ Hongye Tan, Xiaoyue Wang, Yu Ji, Ru Li, Xiaoli Li, Zhiwei Hu, Yunxiao Zhao, Xiao
 [Shanxi University](https://github.com/SXUNLP)
 
 ### Citation
+Please kindly cite our paper if the work is helpful.
 ```bibtex
 @inproceedings{tan-etal-2021-gcrc,
     title = "{GCRC}: A New Challenging {MRC} Dataset from {G}aokao {C}hinese for Explainable Evaluation",
